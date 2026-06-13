@@ -1,0 +1,5 @@
+outs:
+- md5: 1bf0b218a8bc12f069f320f8bd38bfc4
+  size: 1527664068
+  hash: md5
+  path: restaurants_with_text.parquet
