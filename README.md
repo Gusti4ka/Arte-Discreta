@@ -57,3 +57,16 @@ intermediate data files are tracked via DVC and are not committed to
 this repository; only the notebook, figures, and code are public.
 
 ## Requirements
+```
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+rapidfuzz
+scipy
+```
+
+## Author
+
+Avgustina Daskalova · Machine Learning with Python · SoftUni · 2026
